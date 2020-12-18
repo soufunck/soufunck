@@ -1,4 +1,6 @@
-<style>.yng {border-radius: 50%}</style>
+<style>
+.yng {border-radius: 50%}
+</style>
 
 <p align="center">
  <img class="yng" width="100px" src="https://cdn.discordapp.com/attachments/784859061148844052/789485890396356658/22b99b118932c6664b8dcbc8c2b476ca.png" align="center"/>
