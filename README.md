@@ -1,4 +1,4 @@
-# <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/62726410?s=48&amp;v=4" width="24" height="24" border-radius= "50px"> 🚀 SouFunck
+# <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/62726410?s=48&amp;v=4" width="24" height="24" border-radius= "50"> 🚀 SouFunck
 <p align="center">Me chamo João Pedro, tenho 15 anos e trabalho com Design e Programação. Estou atuando
 como freelancer, no momento eu não possuo uma empresa fixa para trabalhar. Para me contactar,
 clique no botão abaixo e veja minhas mídias sociais.
