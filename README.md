@@ -1,5 +1,5 @@
 # 🚀 SouFunck
-<img src="https://uploaddeimagens.com.br/images/003/373/117/full/funckjotape-redondo.png?1628532455" style="heigth: 60px;width:60px"> <p align="center">Me chamo João Pedro, tenho 15 anos e trabalho com Design e Programação. Estou atuando
+<img src="https://uploaddeimagens.com.br/images/003/373/117/full/funckjotape-redondo.png?1628532455" style="height: 60px;width:60px"> <p align="center">Me chamo João Pedro, tenho 15 anos e trabalho com Design e Programação. Estou atuando
 como freelancer, no momento eu não possuo uma empresa fixa para trabalhar. Para me contactar,
 clique no botão abaixo e veja minhas mídias sociais.
 
