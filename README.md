@@ -1,5 +1,5 @@
 # 🤓 SouFunck
-<p align="center">Me chamo João Pedro, tenho 15 anos e trabalho com Design e Programação. Estou atuando
+<p align="center">Me chamo João Pedro, trabalho com Design e Programação. Estou atuando
 como freelancer, no momento eu não possuo uma empresa fixa para trabalhar. Para me contactar,
 clique no botão abaixo e veja minhas mídias sociais.
 
