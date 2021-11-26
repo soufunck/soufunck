@@ -8,8 +8,6 @@
 # 🏵 Estatísticas do GitHub
 ![Meus status](https://github-readme-stats.vercel.app/api?username=soufunck&show_icons=true&theme=radical)
 
-# 🖥️ Desktop
-
-<h1>Linux</h1>
+# 🖥️ Sistema Operacional
 
 <p>Utilizo Linux Kubuntu (Ubuntu com KDE). Não me arrependo de ter trocado o meu sistema operacional, na verdade, foi a melhor coisa que fiz.</p>
