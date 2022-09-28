@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/TypeScript-202020?style=for-the-badge&logo=typescript&logoColor=white" />
   </div>
   
-  <h3>Frameworks</h3>
+  <p>Frameworks</p>
     <div>
       <img src="https://img.shields.io/badge/Bootstrap-202020?style=for-the-badge&logo=bootstrap&logoColor=white" />
       <img src="https://img.shields.io/badge/next.js-202020?style=for-the-badge&logo=nextdotjs&logoColor=white" />
