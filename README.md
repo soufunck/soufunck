@@ -1,3 +1,6 @@
 # Olá, seja bem-vindo(a) ao meu Github! 😁
 
-[AAA](https://badgen.net/badge/hello/world/red?icon=twitter)
+<div> 
+ <a href="https://twitter.com/soufunck" target="_blank"><img src="https://img.shields.io/badge/twitter" target="_blank"></a> 
+
+</div>
