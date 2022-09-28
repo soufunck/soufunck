@@ -22,14 +22,14 @@
   </a>
   
 <p>💻 Tecnologias<p>
-   <div>
+  <div>
     <img src="https://img.shields.io/badge/CSS3-202020?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-202020?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-202020?style=for-the-badge&logo=typescript&logoColor=white" />
   </div>
   
-  <p style="margin-top: 30px">Frameworks</p>
+<p>🎇 Frameworks</p>
     <div>
       <img src="https://img.shields.io/badge/Bootstrap-202020?style=for-the-badge&logo=bootstrap&logoColor=white" />
       <img src="https://img.shields.io/badge/next.js-202020?style=for-the-badge&logo=nextdotjs&logoColor=white" />
