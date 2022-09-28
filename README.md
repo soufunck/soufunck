@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo(a) ao meu Github! 😁
 
-## 📢 Importante
+<h1>Importante<h1>
   <a href="https://nubank.com.br/pagar/102niu/2aVzUkZU4t">
     <img src="https://img.shields.io/badge/Doe%20um%20cafe-202020?style=for-the-badge&logo=nubank&logoColor=white" />
   </a>
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/TikTok-202020?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   
-## 🥊 Tecnologias  
+<h1>Tecnologias<h1>
    <div>
     <img src="https://img.shields.io/badge/CSS3-202020?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-202020?style=for-the-badge&logo=html5&logoColor=white" />
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/TypeScript-202020?style=for-the-badge&logo=typescript&logoColor=white" />
   </div>
   
-  <h3>- Frameworks</h3>
+  <h3>Frameworks</h3>
     <div>
       <img src="https://img.shields.io/badge/Bootstrap-202020?style=for-the-badge&logo=bootstrap&logoColor=white" />
       <img src="https://img.shields.io/badge/next.js-202020?style=for-the-badge&logo=nextdotjs&logoColor=white" />
