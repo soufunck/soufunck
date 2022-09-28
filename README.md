@@ -1,6 +1,7 @@
 # Olá, seja bem-vindo(a) ao meu Github! 😁
 
-<div> 
- <a href="https://twitter.com/soufunck" target="_blank">[https://badgen.net/badge/Swift/4.2/orange](https://badgen.net/badge/icon/airbnb?icon=airbnb&label)</a> 
-
-</div>
+<p align="left">
+  <a href="https://instagram.com/soufunck">
+   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/soufunck"/>
+  </a>
+</p> 
