@@ -27,12 +27,8 @@
     <img src="https://img.shields.io/badge/HTML5-202020?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-202020?style=for-the-badge&logo=typescript&logoColor=white" />
-  </div>
-  
-<p>🎇 Frameworks</p>
-    <div>
-      <img src="https://img.shields.io/badge/Bootstrap-202020?style=for-the-badge&logo=bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/badge/next.js-202020?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/Sass-202020?style=for-the-badge&logo=sass&logoColor=white" />
-    </div>
+    <img src="https://img.shields.io/badge/Bootstrap-202020?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/next.js-202020?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sass-202020?style=for-the-badge&logo=sass&logoColor=white" />
+   </div>
