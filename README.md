@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Doe%20um%20cafe-202020?style=for-the-badge&logo=nubank&logoColor=white" />
   </a>
   
-  <a href="https://portfolio-soufunck.vercel.app">
+  <a href="https://soufunck.github.io/me-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-202020?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 
